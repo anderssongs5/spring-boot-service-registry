@@ -1,6 +1,6 @@
 # spring-boot-service-registry
 
-Service Registry o Service Discovery using Eureka and getting its configuration through Config Server (Spring Cloud - Config Client).
+Service Registry o Service Discovery using Eureka.
 
 * Config Server: https://github.com/anderssongs5/spring-boot-config-server
 * Employee: https://github.com/anderssongs5/spring-boot-service-employee
